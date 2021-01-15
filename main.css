@@ -19,11 +19,6 @@ h1 {
     box-shadow: 10px 5px 0px black;
     text-shadow: white 2px 0px 3px;
 }
-a {
-    color: black;
-    text-decoration: none;
-    font-family: arial;
-}
 .titre {
     width: 21em;
 }
@@ -37,7 +32,8 @@ p {
     text-indent:-9999px;
     font-size: 0;
 }
-h2 {
+a {
+    color:black;
     display: block;
     text-align: center;
     font-weight: bolder;
@@ -48,4 +44,12 @@ h2 {
     border-radius: 10px;
     box-shadow: 10px 5px 0px black;
     text-shadow: white 2px 0px 3px;
+    text-decoration: none;
+}
+ul {
+  padding: 0;
+  text-align: center;
+}
+li {
+  display: inline;
 }
