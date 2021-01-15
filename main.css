@@ -11,9 +11,12 @@ h1 {
     display: block;
     text-align: center;
     font-weight: bolder;
-    font-size: 43;
     font-family: arial;
     margin: 15;
+}
+.spotify {
+    margin: 15;
+    font-size: 23;
     background:linear-gradient(120deg, #1db954, #1db954);
     border-radius: 10px;
     box-shadow: 10px 5px 0px black;
